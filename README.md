@@ -6,5 +6,5 @@ just npm install and npm start, which navigates to the bottom of the file direct
 
 have a good time viewing
 
-hi![as](https://user-images.githubusercontent.com/87334718/177188087-0bc41f55-2aff-4a80-85a0-fe723ca1c12d.PNG)
+![as](https://user-images.githubusercontent.com/87334718/177188087-0bc41f55-2aff-4a80-85a0-fe723ca1c12d.PNG)
 ![d](https://user-images.githubusercontent.com/87334718/177188091-9af88f9d-58cb-4055-b5f8-dcbb0b59f7c7.PNG)
